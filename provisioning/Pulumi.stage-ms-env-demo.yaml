@@ -1,0 +1,5 @@
+encryptionsalt: v1:/Cw5vcyRzvQ=:v1:WC3dsbytneNQt7j/:urxYsBDUxmhOEVEa4OOHOxe+Yrj1dQ==
+config:
+  aws:region: eu-north-1
+  service:serviceName: ms-env
+  ms-env:environmentName: stage-ms-env-demo
