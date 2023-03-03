@@ -1,0 +1,18 @@
+[DESCRIBE]
+  name: project-name;
+  description?: This is the default config for all stacks
+  ymir_version: 0.0.1
+  project_version: 0.0.1
+
+[FILE]
+  path: ./
+  name: .env
+  description?: This is the default dot env file for all stacks
+
+[DEFAULT_RESOLVER]
+  name: ssm
+  description?: Resolver for AWS SSM
+
+[RESOLVER_CONFIG_SSM]
+  alias: ssm
+  region: eu-north-1

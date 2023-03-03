@@ -1,0 +1,6 @@
+[DESCRIBE]
+  description?: This is the default stack, variables that are the same in all stacks should be defined here
+
+[REGION]
+  path: /default/a214ba1b/region
+  resolver?: ssm

@@ -1,0 +1,6 @@
+[DESCRIBE]
+  description?: This is the stack to use for the development environment
+
+[TABLE_NAME]
+  path: /stage/313e6997/table/name
+  resolver?: ssm
