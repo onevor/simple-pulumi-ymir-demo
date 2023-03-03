@@ -1,3 +1,5 @@
 encryptionsalt: v1:jhdf24fd3gQ=:v1:w2Cl9y1pILreS1WZ:9Mz/7vMYtOnOTWH+fL1QWLXg0AQK/A==
 config:
   aws:region: eu-north-1
+  service:serviceName: ms-env
+  ms-env:environmentName: dev-ms-env
